@@ -1,0 +1,9 @@
+﻿<PhysicsProperties>
+  <AffectedByGravity>false</AffectedByGravity>
+  <AllowDeactivation>true</AllowDeactivation>
+  <IsGhost>false</IsGhost>
+  <IsStatic>true</IsStatic>
+  <Restitiution>0.2</Restitiution>
+  <StaticFriction>0.8</StaticFriction>
+  <DynamicFriction>0.8</DynamicFriction>
+</PhysicsProperties>

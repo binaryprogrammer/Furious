@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/Heroism/!svn/ver/55/Jitter/Collision
+END
+CollisionSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Heroism/!svn/ver/23/Jitter/Collision/CollisionSystem.cs
+END
+CollisionSystemBrute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Heroism/!svn/ver/23/Jitter/Collision/CollisionSystemBrute.cs
+END
+CollisionSystemSAP.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Heroism/!svn/ver/23/Jitter/Collision/CollisionSystemSAP.cs
+END
+CollisionSystemPersistentSAP.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Heroism/!svn/ver/23/Jitter/Collision/CollisionSystemPersistentSAP.cs
+END
+XenoCollide.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Heroism/!svn/ver/23/Jitter/Collision/XenoCollide.cs
+END
+CollisionIsland.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Heroism/!svn/ver/23/Jitter/Collision/CollisionIsland.cs
+END
+GJKCollide.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Heroism/!svn/ver/23/Jitter/Collision/GJKCollide.cs
+END

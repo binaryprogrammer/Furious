@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Heroism/!svn/ver/55/Jitter/Collision/Shapes
+END
+Multishape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Heroism/!svn/ver/23/Jitter/Collision/Shapes/Multishape.cs
+END
+CapsuleShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Heroism/!svn/ver/23/Jitter/Collision/Shapes/CapsuleShape.cs
+END
+Shape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Heroism/!svn/ver/23/Jitter/Collision/Shapes/Shape.cs
+END
+MinkowskiSumShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Heroism/!svn/ver/23/Jitter/Collision/Shapes/MinkowskiSumShape.cs
+END
+TriangleMeshShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Heroism/!svn/ver/55/Jitter/Collision/Shapes/TriangleMeshShape.cs
+END
+CompoundShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Heroism/!svn/ver/23/Jitter/Collision/Shapes/CompoundShape.cs
+END
+ConeShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Heroism/!svn/ver/23/Jitter/Collision/Shapes/ConeShape.cs
+END
+TerrainShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Heroism/!svn/ver/23/Jitter/Collision/Shapes/TerrainShape.cs
+END
+SphereShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Heroism/!svn/ver/23/Jitter/Collision/Shapes/SphereShape.cs
+END
+ConvexHullShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Heroism/!svn/ver/23/Jitter/Collision/Shapes/ConvexHullShape.cs
+END
+BoxShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Heroism/!svn/ver/23/Jitter/Collision/Shapes/BoxShape.cs
+END
+CylinderShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Heroism/!svn/ver/23/Jitter/Collision/Shapes/CylinderShape.cs
+END

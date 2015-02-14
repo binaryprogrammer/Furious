@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/Heroism/!svn/ver/23/Jitter/Dynamics
+END
+Contact.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Heroism/!svn/ver/23/Jitter/Dynamics/Contact.cs
+END
+RigidBody.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Heroism/!svn/ver/23/Jitter/Dynamics/RigidBody.cs
+END
+IConstraint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Heroism/!svn/ver/23/Jitter/Dynamics/IConstraint.cs
+END
+Material.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Heroism/!svn/ver/23/Jitter/Dynamics/Material.cs
+END
+Constraint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Heroism/!svn/ver/23/Jitter/Dynamics/Constraint.cs
+END
+ArbiterMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Heroism/!svn/ver/23/Jitter/Dynamics/ArbiterMap.cs
+END
+Arbiter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Heroism/!svn/ver/23/Jitter/Dynamics/Arbiter.cs
+END
